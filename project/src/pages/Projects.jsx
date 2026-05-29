@@ -22,7 +22,7 @@ const portraitVideos = [
     title: "Real Estate",
   },
   {
-    src: "https://res.cloudinary.com/dkptyzv1h/video/upload/v1776262024/Realstate_ab9hyt.mp4",
+    src: "https://res.cloudinary.com/drnie4sny/video/upload/v1780060588/Realstate_02_khdlos.mp4",
     title: "Real Estate",
   },
 ];
