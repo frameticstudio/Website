@@ -2,23 +2,23 @@ import { motion } from "framer-motion";
 
 const portraitVideos = [
   {
-    src: "https://res.cloudinary.com/dkptyzv1h/video/upload/v1776262117/Motion_graphic_02_dwajjs.mp4",
+    src: "https://res.cloudinary.com/drnie4sny/video/upload/v1780058676/Motion_graphic_02_o0hqvc.mp4",
     title: "Motion Graphics",
   },
   {
-    src: "https://res.cloudinary.com/dkptyzv1h/video/upload/v1776264374/Documentary_r1hs5z.mp4",
+    src: "https://res.cloudinary.com/drnie4sny/video/upload/v1780059563/Documentary_n6qg8p.mp4",
     title: "Documentary",
   },
   {
-    src: "https://res.cloudinary.com/dkptyzv1h/video/upload/v1776261512/Tyopgraphy_uqn5ua.mp4",
+    src: "https://res.cloudinary.com/drnie4sny/video/upload/v1780057619/Tyopgraphy_mpf9nh.mp4",
     title: "Typography",
   },
   {
-    src: "https://res.cloudinary.com/dkptyzv1h/video/upload/v1776267342/Motion_Graphics_in1lhd.mp4",
+    src: "https://res.cloudinary.com/drnie4sny/video/upload/v1780058649/Motion_Graphics_fu6qrq.mp4",
     title: "Motion Graphics",
   },
   {
-    src: "https://res.cloudinary.com/dkptyzv1h/video/upload/v1776264610/Realstate_02_qmuzbk.mp4",
+    src: "https://res.cloudinary.com/drnie4sny/video/upload/v1780058554/Realstate_k8hgpv.mp4",
     title: "Real Estate",
   },
   {
@@ -28,10 +28,9 @@ const portraitVideos = [
 ];
 
 const cinematicVideos = [
-  "https://res.cloudinary.com/dkptyzv1h/video/upload/v1776267600/Cinematic_02_ovw5u7.mp4",
-  "https://res.cloudinary.com/dkptyzv1h/video/upload/v1776267976/Cinematic_03_tt5tm8.mp4",
-  "https://res.cloudinary.com/dkptyzv1h/video/upload/v1776262155/Cinematic_xt6g8h.mp4",
-  "https://res.cloudinary.com/dkptyzv1h/video/upload/v1776262730/Ashi_s_final_reel_y8ggoe.mp4",
+  "https://res.cloudinary.com/drnie4sny/video/upload/v1780057149/Cinematic_03_dwm8kc.mp4",
+  "https://res.cloudinary.com/drnie4sny/video/upload/v1780057086/Cinematic_hh1wr2.mp4",
+  "https://res.cloudinary.com/drnie4sny/video/upload/v1780059281/Cinematic_02_1_tnxfdp.mp4",
 ];
 
 export default function Projects() {
