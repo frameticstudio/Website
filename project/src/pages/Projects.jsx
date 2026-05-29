@@ -31,7 +31,7 @@ const cinematicVideos = [
   "https://res.cloudinary.com/drnie4sny/video/upload/v1780057149/Cinematic_03_dwm8kc.mp4",
   "https://res.cloudinary.com/drnie4sny/video/upload/v1780057086/Cinematic_hh1wr2.mp4",
   "https://res.cloudinary.com/drnie4sny/video/upload/v1780059281/Cinematic_02_1_tnxfdp.mp4",
-  "https://res.cloudinary.com/drnie4sny/video/upload/v1780060588/Realstate_02_khdlos.mp4"
+  "https://res.cloudinary.com/drnie4sny/video/upload/v1780060907/Ashi_s_final_reel_jgwlvt.mp4"
 ];
 
 export default function Projects() {
